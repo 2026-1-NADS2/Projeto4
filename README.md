@@ -11,8 +11,7 @@
 
 ## Integrantes: <a href="www.linkedin.com/in/ozeaguiar">José Aguiar</a>, <a href="">Bruno Faccio</a>, <a href="">Luiza Alde</a>, <a href="">Maria Luisa</a>
 
-## Professores Orientadores: <a href="">Victor Rossetti</a>, <a href="">Eduardo Savino</a>, <a href=""> Ronaldo Araujo </a>
-, <a href="">José Buesso</a>, <a href="">Francisco Escobar</a>,<a href=""> Adriano Felix </a>
+## Professores Orientadores:<a href="">Eduardo Savino</a>, <a href=""> Ronaldo Araujo </a>, <a href="">José Buesso</a>, <a href="">Francisco Escobar</a>,<a href=""> Adriano Felix </a>
 
 ## Descrição
 
