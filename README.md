@@ -17,7 +17,7 @@
 
 <p align="center">
 <img src="https://imgur.com/a/zom3Rs9" alt="MANGÚT" border="0">
-  Game by <a href="">José Aguiar, Bruno Faccio, Luiza Alde, Maria Luisa</a> <a rel="license" href="">FECAP LIBERDADE 1ADS</a> <a href="">moodle</a>
+  Game by <a href="">José Aguiar, Bruno Faccio, Luiza Alde, Maria Luisa</a> <a rel="license" href="">FECAP LIBERDADE 2ADS</a> <a href="">moodle</a>
 </p>
 
 
@@ -37,7 +37,7 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 
 ## 📋 Licença/License
 
-<a href="https://github.com/2025-2-NADS1/Projeto2"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">PicWords</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2025 por </font></font><a href="https://creativecommons.org"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">José Antônio da Silva de Aguiar, Luiza Sardinha Alde, Bruno de Brito Faccio, Maria Luisa Silva Lima</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> está licenciada sob </font></font><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">CC BY-NC-ND 4.0</font></font></a>
+<a href="https://github.com/2025-2-NADS1/Projeto2"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">PicWords</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2026 por </font></font><a href="https://creativecommons.org"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">José Antônio da Silva de Aguiar, Luiza Sardinha Alde, Bruno de Brito Faccio, Maria Luisa Silva Lima</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> está licenciada sob </font></font><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">CC BY-NC-ND 4.0</font></font></a>
 <br>
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
@@ -45,7 +45,3 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 
 Aqui estão as referências usadas no projeto.
 
-1. https://youtu.be/DjNr3TP-zSA?si=gbmJ7Cj8Mq2aSVfw
-2. https://www.youtube.com/watch?v=HDyfJF9DNLQ
-3. https://www.youtube.com/watch?v=0NIXj7j1q4c
-4. https://youtu.be/lTjwm1CghDY?si=5flQCgOu_Ejmy2nl
