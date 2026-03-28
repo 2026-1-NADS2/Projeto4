@@ -32,7 +32,7 @@ Aqui empresas crescem juntas, venha fazer parte você também!
 
 <b>HTML:</b>
 
-as relações comerciais entre empresas. A proposta consiste em criar um ambiente digital eficiente, seguro e escalável, que facilite a negociação, a gestão de pedidos e a troca de informações entre fornecedores e clientes corporativos.
+Não há instalação! Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 📋 Licença/License
 
