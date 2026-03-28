@@ -30,10 +30,9 @@ Aqui empresas crescem juntas, venha fazer parte você também!
 
 ## 🛠 Instalação
 
-<b>Windows:</b>
+<b>HTML:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+as relações comerciais entre empresas. A proposta consiste em criar um ambiente digital eficiente, seguro e escalável, que facilite a negociação, a gestão de pedidos e a troca de informações entre fornecedores e clientes corporativos.
 
 ## 📋 Licença/License
 
