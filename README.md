@@ -11,7 +11,7 @@
 
 ## Integrantes: <a href="www.linkedin.com/in/ozeaguiar">José Aguiar</a>, <a href="">Bruno Faccio</a>, <a href="">Luiza Alde</a>, <a href="">Maria Luisa</a>
 
-## Professores Orientadores:<a href="">Eduardo Savino</a>, <a href=""> Ronaldo Araujo </a>, <a href="">José Buesso</a>, <a href="">Francisco Escobar</a>,<a href=""> Adriano Felix </a>
+## Professores Orientadores: <a href="">Eduardo Savino</a>, <a href=""> Ronaldo Araujo </a>, <a href="">José Buesso</a>, <a href="">Francisco Escobar</a>,<a href=""> Adriano Felix </a>
 
 ## Descrição
 
@@ -21,11 +21,11 @@
 </p>
 
 
-Projeto criado por alunos afim de facilitar o processo de encontrar fornecedores e melhorar a experiência no modelo Business to Business 
+Projeto criado por alunos afim de facilitar o processo de encontrar fornecedores e melhorar a experiência no modelo Business to Business. 
 <br><br>
-Nosso projeto tranforma a experiência de conseguir cupons em uma conquista, onde cada jogador poderá escolher entre fases de diferentes níveis, acertar palavras e conseguir bater pontuações que com essas pontuações poderá liberar cupons e dicas de cupons fisicos na grande São Paulo.
+Este projeto tem como objetivo desenvolver as relações comerciais entre empresas. A proposta consiste em criar um ambiente digital eficiente, seguro e escalável, que facilite a visualização de pedidos e a troca de informações entre fornecedores e clientes corporativos.
 <br><br>
-Antes de caçar cupons, por que não, tentarmos caçar palavras primeiros?
+Aqui empresas crescem juntas, venha fazer parte você também!
 <br><br>
 
 ## 🛠 Instalação
