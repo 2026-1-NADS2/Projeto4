@@ -5,13 +5,14 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# PicWords
+# Mangút
 
 ## MBJL Project
 
 ## Integrantes: <a href="www.linkedin.com/in/ozeaguiar">José Aguiar</a>, <a href="">Bruno Faccio</a>, <a href="">Luiza Alde</a>, <a href="">Maria Luisa</a>
 
-## Professores Orientadores: <a href="">Victor Rossetti</a>, <a href="">Eduardo Savino</a>, <a href="">Lucy Tabuti</a>, <a href="">Aimar Martins</a>, <a href="">Renata Muniz</a>,<a href=""> Ronaldo Araujo </a>
+## Professores Orientadores: <a href="">Victor Rossetti</a>, <a href="">Eduardo Savino</a>, <a href=""> Ronaldo Araujo </a>
+, <a href="">José Buesso</a>, <a href="">Francisco Escobar</a>,<a href=""> Adriano Felix </a>
 
 ## Descrição
 
@@ -21,7 +22,7 @@
 </p>
 
 
-Projeto criado por alunos afim de facilitar o processo de encontrar fornecedores e melhorar a integração entre vendedor e 
+Projeto criado por alunos afim de facilitar o processo de encontrar fornecedores e melhorar a experiência no modelo Business to Business 
 <br><br>
 Nosso projeto tranforma a experiência de conseguir cupons em uma conquista, onde cada jogador poderá escolher entre fases de diferentes níveis, acertar palavras e conseguir bater pontuações que com essas pontuações poderá liberar cupons e dicas de cupons fisicos na grande São Paulo.
 <br><br>
