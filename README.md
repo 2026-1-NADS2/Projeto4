@@ -22,7 +22,6 @@
 
 
 Projeto criado por alunos afim de facilitar o processo de encontrar fornecedores e melhorar a experiência no modelo Business to Business.
- 
 <br><br>
 Este projeto tem como objetivo desenvolver as relações comerciais entre empresas. A proposta consiste em criar um ambiente digital eficiente, seguro e escalável, que facilite a visualização de pedidos e a troca de informações entre fornecedores e clientes corporativos.
 <br><br>
