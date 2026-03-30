@@ -17,7 +17,7 @@
 
 <p align="center">
 <img width="1536" height="1024" alt="BANNER_GIT_PI" src="https://github.com/user-attachments/assets/f81baa69-d241-4d15-a615-4e238bea46eb" />
-  Game by <a href="">José Aguiar, Bruno Faccio, Luiza Alde, Maria Luisa</a> <a rel="license" href="">FECAP LIBERDADE 2ADS</a> <a href="">moodle</a>
+  Made by <a href="">José Aguiar, Bruno Faccio, Luiza Alde, Maria Luisa</a> <a rel="license" href="">FECAP LIBERDADE 2ADS</a> <a href="">moodle</a>
 </p>
 
 
